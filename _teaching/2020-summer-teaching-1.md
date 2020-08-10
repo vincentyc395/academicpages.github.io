@@ -1,9 +1,9 @@
 ---
 title: "Communication and Technology"
 collection: teaching
-type: "Undergraduate course"
+type: "Lectuer"
 permalink: /teaching/2020-summer-teaching-1
-venue: "University 1, Department"
+venue: "Cornell University, Department of Communication"
 date: 2020-06-01
 location: "Ithaca, USA"
 ---
