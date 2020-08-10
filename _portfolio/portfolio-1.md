@@ -5,7 +5,7 @@ date: '2020-03-01'
 excerpt: ''
 hosts: []
 image: 'https://onthemarcmedia.com/wp-content/uploads/2016/09/Yelp.jpg'
-subtitle: ''
+subtitle: 'Manuscript Under Review'
 tags:
 - crowdsourced reviews
 - wisdom of crowds
