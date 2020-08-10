@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Yu / Personal Website"
+title                    : "Chao Yu / About Me"
 title_separator          : "-"
 name                     : &name "Chao Yu"
 description              : &description "personal description"
