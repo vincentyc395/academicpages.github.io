@@ -1,7 +1,7 @@
 ---
 title: "Oral Communication"
 collection: teaching
-type: "Workshop"
+type: "Lecturer"
 venue: "Cornell University, Department of Communication"
 date: 2020-01-18
 location: "Ithaca, USA" 
