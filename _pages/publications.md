@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&authuser=2&user=_OrVC4MAAAAJ=en">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=_OrVC4MAAAAJ">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
 <h2>Peer Reviewed Journal Articles</h2>
-* Fownes, J. R., Yu, C., & Margolin, D. B. (2018). [Twitter and climate change] (https://onlinelibrary.wiley.com/doi/pdf/10.1111/soc4.12587). Sociology Compass, 12(6), e12587.
+* Fownes, J. R., Yu, C., & Margolin, D. B. (2018). [Twitter and climate change](https://onlinelibrary.wiley.com/doi/pdf/10.1111/soc4.12587). Sociology Compass, 12(6), e12587.
 Chicago	
 
 <h2>Conference Presentations</h2>
@@ -24,4 +24,4 @@ Chicago
 
 * Yu, C., Margolin, D.B., Wang, X., “Social class and discrimination: a study of consumer reviews on Yelp,” Association for Consumer Research, San Diego, California, October 2017
 
-*Yu, C., Margolin, D., & Wang, X. (2017). 20-A: a Taste of Discrimination: a Study on Consumer Reviews on Yelp. ACR North American Advances.
+* Yu, C., Margolin, D., & Wang, X. (2017). 20-A: a Taste of Discrimination: a Study on Consumer Reviews on Yelp. ACR North American Advances.
