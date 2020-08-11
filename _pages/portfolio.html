@@ -1,14 +1,22 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+ These projects are manuscripts under review. To see my published works, please check <u><a href="../publications/" >publications</a></u>.
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<hr/>
+
+<div class="grid-container">
+
+{% for post in site.portfolio reversed %}
+  {% include portfolio-archive-single.html type="grid"%}
 {% endfor %}
+
+</div>
+
 
