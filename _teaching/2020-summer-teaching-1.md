@@ -8,7 +8,7 @@ date: 2020-06-01
 location: "Ithaca, USA"
 ---
 
-This course will serve as the foundation introduction to the "Communication and Technology" area of the Communication department and the "Human Systems" track of Information Science. 
+This course serves as the foundation introduction to the "Communication and Technology" area of the Communication department and the "Human Systems" track of Information Science. 
 
 COURSE OVERVIEW
 ======
