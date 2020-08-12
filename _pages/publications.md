@@ -22,4 +22,4 @@ Chicago
 
 * Yu, C., Margolin, D.B., “Intergroup bias communicated through Yelp reviews,” International Network for Social Network Analysis, Beijing, China, June 2017
 
-* Yu, C., Margolin, D., & Wang, X. (2017). 20-A: a Taste of Discrimination: a Study on Consumer Reviews on Yelp. ACR North American Advances.
+* Yu, C., Margolin, D., & Wang, X. (2017). A Taste of Discrimination: A Study on Consumer Reviews on Yelp. ACR North American Advances.
