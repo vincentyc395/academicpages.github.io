@@ -25,11 +25,11 @@
   <li class="li3"><span class="s2"><a href="file:///Users/Vince/Documents/GitHub/vincentyc395.github.io/_includes/%7B%7B%20base_path%20%7D%7D/"><span class="s3">{{ site.title }}</span></a></span></li>
   <li class="li1"><span class="s2"></span><span class="s1">{% for link in site.data.navigation.main %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign domain = base_path %} {% endif %}</span></li>
   <li class="li3"><span class="s2"><a href="file:///Users/Vince/Documents/GitHub/vincentyc395.github.io/_includes/%7B%7B%20domain%20%7D%7D%7B%7B%20link.url%20%7D%7D"><span class="s3">{{ link.title }}</span></a></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endfor %}</span></li>
-  <li class="li3"><span class="s2"><a href="https://drive.google.com/file/d/1z_vQx1V0Y5udJdF5P4al_c0n3DkxOmOi/view?usp=sharing"><span class="s3">CV</span></a></span></li>
-</ul>
-<ul class="ul1">
-  <li class="li4"></li>
+  <li class="li1"><span class="s2"></span><span class="s1">
+    {% endfor %}
+    <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://drive.google.com/file/d/1z_vQx1V0Y5udJdF5P4al_c0n3DkxOmOi/view?usp=sharing">CV</a></li>
+  </ul>
+  <ul class="hidden-links hidden"></ul>
 </ul>
 </body>
 </html>
